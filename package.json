@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "firebase-admin": "^5.2.1",
+    "kcors": "^2.2.1",
+    "koa": "^2.2.0",
+    "koa-body": "^2.3.0",
+    "koa-static": "^3.0.0"
+  }
+}

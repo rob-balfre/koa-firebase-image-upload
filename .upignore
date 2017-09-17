@@ -1,0 +1,6 @@
+LICENSE
+*.lock
+*.md
+*.ts
+.idea
+!node-v8.4.0-linux-x64
